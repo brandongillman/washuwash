@@ -1,8 +1,28 @@
 .btn{
-	background-color: #00BFFF;
+	background-color: #0080FF;
 	color: #FFFFFF;
 	text-align: center;
 }
 .heading{
-	color: #848484;
+	color: #298A08;
+	font-family: '"Palatino Linotype", "Book Antiqua", Palatino, serif' , sans-serif;
 }
+body{
+	background-color: white;
+}
+.carousel-caption{
+	color: black;
+	font-family: '"Palatino Linotype", "Book Antiqua", Palatino, serif' , sans-serif;
+}
+h1{
+	text-shadow: 5px 5px 5px #0080FF;
+}
+hr{
+	border: 0;
+    height: 0; /* Firefox... */
+    box-shadow: 0 0 10px 1px #0080FF;
+}
+hr:after{
+	content: "\00a0";
+}
+
